@@ -9,7 +9,7 @@ I am constantly working to improve my level as a specialist and I am looking for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) 
 
 
-### Badges
+## Badges
 [![codewars](https://www.codewars.com/users/Amat0/badges/large)](https://www.codewars.com/users/Amat0) 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Amato789&theme=dark)](https://github.com/Amato789/leetcode-stats)
