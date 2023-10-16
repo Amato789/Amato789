@@ -7,7 +7,8 @@ I am constantly working to improve my level as a specialist and I am looking for
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact)](https://github.com/Amato789/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amato789)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&theme=tokyonight)
+
 
 ### Badges
 [![codewars](https://www.codewars.com/users/Amat0/badges/large)](https://www.codewars.com/users/Amat0) 
