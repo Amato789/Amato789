@@ -1,8 +1,6 @@
 ## About
-<p align="center">
   I am a junior python developer with a strong analytical thinking, attention to details and a thirst for knowledge. I have basic knowledge of python, django, sql, postgresql, redis, docker, git.
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
-</p>
 
 
 <!--
