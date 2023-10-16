@@ -3,7 +3,6 @@ I am a junior python developer with a strong analytical thinking, attention to d
   
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
 
-##
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) 
