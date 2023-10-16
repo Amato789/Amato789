@@ -3,6 +3,14 @@
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
 
 
+
+
+### Badges
+https://www.codewars.com/users/Amat0/badges/micro
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amato789.Amato789)
+
 <!--
 **Amato789/Amato789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
