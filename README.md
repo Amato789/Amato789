@@ -14,8 +14,6 @@ I am constantly working to improve my level as a specialist and I am looking for
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amato789)
 
-![](https://komarev.com/ghpvc/?username=Amato789)
-
 <!--
 **Amato789/Amato789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
