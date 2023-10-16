@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/maksym-sydorchuk/" target="_blank">Maksym</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"></h1>
+<h5 align="center">
   I am a junior python developer with a strong analytical thinking, attention to details and a thirst for knowledge. I have basic knowledge of python, django, sql, postgresql, redis, docker, git.
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
-</h3>
+</h5>
 
 
 <!--
