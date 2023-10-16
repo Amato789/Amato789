@@ -6,8 +6,7 @@ I am constantly working to improve my level as a specialist and I am looking for
 
 
 ### Badges
-https://www.codewars.com/users/Amat0/badges/micro
-
+[![codewars](https://www.codewars.com/users/Amat0/badges/micro)](https://www.codewars.com/users/Amat0) 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amato789)
 
