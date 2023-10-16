@@ -7,7 +7,7 @@ I am constantly working to improve my level as a specialist and I am looking for
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amato789&theme=github_dark_dimmed)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Amato789&layout=compact&theme=github_dark_dimmed) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) 
 
 
 ### Badges
