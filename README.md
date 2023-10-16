@@ -4,17 +4,7 @@ I am a junior python developer with a strong analytical thinking, attention to d
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
 
 
-- 🌱 I’m currently learning Python, Django
-- 👯 I’m looking to collaborate on ...
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) ![](https://github-readme-stats.vercel.app/api?username=Amato789&layout=compact&theme=github_dark_dimmed)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Amato789&layout=compact&theme=github_dark_dimmed) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed) 
 
 
 ### Badges
