@@ -1,23 +1,20 @@
 ## About
-  I am a junior python developer with a strong analytical thinking, attention to details and a thirst for knowledge. I have basic knowledge of python, django, sql, postgresql, redis, docker, git.
+I am a junior python developer with a strong analytical thinking, attention to details and a thirst for knowledge. I have basic knowledge of python, django, sql, postgresql, redis, docker, git.
   
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, Django
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=github_dark_dimmed)(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Badges
