@@ -4,7 +4,7 @@ I am a junior python developer with a strong analytical thinking, attention to d
 I am constantly working to improve my level as a specialist and I am looking for a company where I could be useful, become part of the team where I could use my skills.
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,docker,git,github,mysql,postgres,rabbitmq,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,mysql,postgres,redis,rabbitmq,docker,git)](https://skillicons.dev)
 
 
 ## Badges
