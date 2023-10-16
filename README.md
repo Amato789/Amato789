@@ -5,7 +5,7 @@ I am constantly working to improve my level as a specialist and I am looking for
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=shadow_blue)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Amato789&layout=compact&theme=shadow_blue)
 
 
 
