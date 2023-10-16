@@ -10,6 +10,8 @@ I am constantly working to improve my level as a specialist and I am looking for
 ### Badges
 [![codewars](https://www.codewars.com/users/Amat0/badges/micro)](https://www.codewars.com/users/Amat0) 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Amato789&theme=dark)](https://github.com/Amato789/leetcode-stats)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amato789)
 
 <!--
