@@ -10,8 +10,6 @@ Always learning, always smiling )
 ## Badges
 [![codewars](https://www.codewars.com/users/Amat0/badges/large)](https://www.codewars.com/users/Amat0) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Amato789&theme=dark)](https://github.com/Amato789/leetcode-stats)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amato789)
 
 <!--
