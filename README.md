@@ -1,5 +1,4 @@
 ## About
-Python developer.
 Always learning, always smiling )
 
 "Veni, vidi, vici!"
